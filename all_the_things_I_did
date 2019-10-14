@@ -1,0 +1,221 @@
+commit 38abb2d22af26df1c7bb9d23d05190526fd91f11
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Oct 13 15:05:10 2019 +0100
+
+    This BigScript is ready and have all comments in it
+
+commit 59360a5cac6480e37c625dc6472da8d30054a254
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Oct 13 14:54:48 2019 +0100
+
+    This BigScript is ready tu support more samples (as long as they are stumpy and slender)
+
+commit 8ad7138386cb7506eca2ce29755678914d23f45b
+Author: B149311-2019 <email_not_provided>
+Date:   Fri Oct 11 18:59:25 2019 +0100
+
+    It already works all the script
+
+commit 62dbecd2ff1f88e081f1551dcee0289ac10eb631
+Author: B149311-2019 <email_not_provided>
+Date:   Fri Oct 11 11:24:26 2019 +0100
+
+    try.sh already make the stats file
+
+commit f038052dccf79c964f245f456188bb0a2f160426
+Author: B149311-2019 <email_not_provided>
+Date:   Thu Oct 10 19:46:34 2019 +0100
+
+    trying the txt tab
+
+commit 0284b29808d06f07c5a462dd95071a9e28430b48
+Author: B149311-2019 <email_not_provided>
+Date:   Tue Oct 8 23:49:29 2019 +0100
+
+    BigScript runs everything until bedtools
+
+commit bf8cb9f1982eacbd63e1072277e19c6bd8371db4
+Author: B149311-2019 <email_not_provided>
+Date:   Tue Oct 8 01:34:56 2019 +0100
+
+    Big script runs prepare, Fastqc, bowtie2, and bed
+
+commit 729f68ca24d4c4555b18bbd9c72af8961c74bc47
+Author: B149311-2019 <email_not_provided>
+Date:   Tue Oct 8 01:34:05 2019 +0100
+
+     convert with samtools to bed files
+
+commit 1c76e75ad537fbcad08c5fbee4c7d079afd23c95
+Author: B149311-2019 <email_not_provided>
+Date:   Tue Oct 8 01:07:14 2019 +0100
+
+    it makes the index genome, and also runs bowtie2
+
+commit e99c891f8f5f5a26d0baacf62684e0e15ace0b8b
+Author: B149311-2019 <email_not_provided>
+Date:   Mon Oct 7 13:48:52 2019 +0100
+
+    bowtie2 make the index now for the genome
+
+commit 4effca93f388e54980110ba4830d246ccfa8c58a
+Author: B149311-2019 <email_not_provided>
+Date:   Mon Oct 7 11:07:29 2019 +0100
+
+    Fastqc almost finish
+
+commit dec944e47cc6b5a88cd90d209f90f37a9f4a9e71
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Oct 6 22:34:50 2019 +0100
+
+    it unzips files from array
+
+commit 4388a955e810a560b974bd25b6c946b4836ccdfa
+Author: B149311-2019 <email_not_provided>
+Date:   Sat Oct 5 12:38:55 2019 +0100
+
+    ask for directories and make Index for bowtie2 (better)
+
+commit 2ab96477046d11e3b4c99d1461e5760cef4b197e
+Author: B149311-2019 <email_not_provided>
+Date:   Sat Oct 5 12:31:36 2019 +0100
+
+    ask for directories and make Index for bowtie2
+
+commit 2491289ac04136eeaeecb69379d0fcf6a9063c60
+Author: B149311-2019 <email_not_provided>
+Date:   Fri Oct 4 13:56:49 2019 +0100
+
+    Ask for the directories to find the files script
+
+commit 2417fd2ac13fdad07f7534b04243e1d2261ecab8
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Oct 2 23:57:09 2019 +0100
+
+    Remove Assignment1 directory and copy a new one
+
+commit 01d5f89a0ae68dd24ab71612f7670ef558acf092
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 23:04:57 2019 +0100
+
+    git config
+
+commit e5e0c405fba1ad38882bce7b472a0c35ac2b4e68
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 23:02:40 2019 +0100
+
+    Lecture04 bash_history
+
+commit 752b216acae85f54e079c3c71ad1529decd3a82a
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 23:02:23 2019 +0100
+
+    Lecture04 bash_profile
+
+commit 7e60ca42bbfa2c336b4be7f5ca45f4360e4755d7
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 23:01:51 2019 +0100
+
+    Lecture04 bashrc
+
+commit 53faa7caa210c74ae1e477b23289884fe58d6ef3
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 23:00:31 2019 +0100
+
+    Lecture04 practice)
+
+commit fa994ca28046bf29cd583227ba41b259bc9023c4
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 22:58:22 2019 +0100
+
+    startin Assignment1, all fastq files are here zip and unzipped
+
+commit bb5cdb90404f42e8d075db3d97cc0bfc5fe5611b
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 22:55:03 2019 +0100
+
+    Lecture 04 tryouts.3
+
+commit 8b598404456718286bdae7e68df01e27ede28c35
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 22:53:54 2019 +0100
+
+    Lecture 04 tryouts.2
+
+commit e2ee88891797ca064332345b51426c41072e74ed
+Author: B149311-2019 <email_not_provided>
+Date:   Sun Sep 29 22:53:27 2019 +0100
+
+    Lecture 04 tryouts
+
+commit 40d8b06058e01cd82e35cca010a303a4d41ae332
+Author: B149311-2019 <email_not_provided>
+Date:   Thu Sep 26 18:57:39 2019 +0100
+
+    Changes
+
+commit ffa73803fcc598c42fdc0dbbab7b599e09b4ef5b
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Final version of the someotherfile.sh shell script prior to merge
+
+commit b793b07f4fdbdc98cd8d358cbcc5cad9244f7d28
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Updated contents of zip to include coolscript
+
+commit 4385212530a1ae522911f076560589058934b6c3
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    I am not sure cool script is actually any good
+
+commit 364b587e3ed0283340403f6ff5e25b5914cc15dc
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Added my_cool_script
+
+commit 9f4202638039f3660f266de2593daa8a41478a63
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Third version of the someotherfile.sh shell script
+
+commit b479da96e1bab2016408a021b34fb5868dcfc0fd
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Updated version of zip
+
+commit 5b05906678a3c1bb25398ac2e241b378f4ff1e3f
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Second version of the someotherfile.sh shell script
+
+commit c75aa64fb0b8aab0fa8a8600aa2607464e2b5c94
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Added the someotherfile.sh shell script
+
+commit b01def3aabc865939c0368bc05ef216ab223a8fc
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Additional motif files, and updated zip file
+
+commit e6ce24a12dfb18566b3de39ea51648df9ea6dcf2
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    Assignment all done and zipped
+
+commit ad39a762f8380bcfbf6bce2df084de61dafaf586
+Author: B149311-2019 <email_not_provided>
+Date:   Wed Sep 25 19:33:22 2019 +0100
+
+    First file added
